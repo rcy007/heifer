@@ -61,9 +61,6 @@ The rule is simple: if obj.f() is called, then this is obj during the call of f.
 
 //SECTION Exercises
 
-
-
-
 let calculator = {
     // a: 0,
     // b: 0,
